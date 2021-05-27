@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "adsa",
+  "main": "geektrust.js",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "line-reader": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node geektrust.js",
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sad"
+  },
+  "keywords": [
+    "dsfjk"
+  ],
+  "author": "",
+  "license": "ISC"
+}
